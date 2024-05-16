@@ -1,0 +1,16 @@
+version: '3.4'
+
+services:
+    postgres:
+        image: postgres:16.3-alpine
+        ports:
+            - "127.0.0.1:5432:5432"
+        environment:
+            POSTGRES_USER: postgres
+            POSTGRES_PASSWORD: 123
+            POSTGRES_DB: resume_db
+        volumes:
+            - postgres_data:/var/lib/postgresql/data
+
+volumes:
+    postgres_data:
