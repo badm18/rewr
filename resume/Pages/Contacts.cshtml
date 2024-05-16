@@ -1,0 +1,37 @@
+﻿@page
+@model ContactsModel
+
+@{
+    ViewData["Title"] = "Contacts";
+}
+<h1>Контактная информация</h1>
+
+<div style="display: flex; align-items: center; gap: 300px">
+    <div>
+        <div class="mt-5">
+            <h5>Беляева Мария Вадимовна</h5>
+            <ul>
+                <li>Email: <a href="mailto:belyashhh12@gmail.com">belyashhh12@gmail.com</a></li>
+                <li>Phone: <a href="tel:+79036468733">+7-(903)-646-87-33</a></li>
+                <li>Telegram: <a href="https://t.me/belyashhme" target="_blank">&#64;belyashhme</a></li>
+            </ul>
+
+        </div>
+
+        <div class="mt-5">
+            <h6>Буду рада услышать Ваше мнение или предложение.</h6>
+            <h6>Свяжитесь со мной, и мы обсудим возможное сотрудничество.</h6>
+            <br/>
+            @if (!Model.FormSubmitted)
+            {
+                <form method="post">
+                    <input type="text" name="name" placeholder="Введите имя"/>
+                    <input type="email" name="email" placeholder="Введите email"/>
+                    <input type="submit" value="Отправить"/>
+                </form>
+            }
+            <p>@Model.Message</p>
+        </div>
+    </div>
+    <img src="lBqe-EOf4us.jpg" style="width: 400px; justify-content: center"/>
+</div>

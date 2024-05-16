@@ -1,0 +1,36 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-5">Беляева Мария</h1>
+    <h2>Веб-разработчик - стажер.</h2>
+</div>
+<br/>
+<div class="d-flex align-center" style="gap: 50px">
+    
+    <div>
+        <div>
+            @foreach (var info in Model.message)
+            {
+                <h4 class="alert-light">@info</h4>
+            }
+        </div>
+        <br/>
+        <h5>Мои навыки:</h5>
+        <ul>
+            @foreach (var info in Model.skills)
+            {
+                <li>@info</li>
+            }
+        </ul>
+    </div>
+    
+    <img src="dSC2E8_OKng (1).jpg" style="margin: auto 0; border-radius: 100%; height: 400px"/>
+</div>
+
+<div>
+    <h5>Образование.</h5><a><b>Инженер-программист</b> — Ярославский Государственный Технический Университет 2022-2026 гг.</a>
+</div>

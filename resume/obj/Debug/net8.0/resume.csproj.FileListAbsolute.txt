@@ -1,0 +1,60 @@
+C:\Users\maria\RiderProjects\resume\resume\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\maria\RiderProjects\resume\resume\bin\Debug\net8.0\appsettings.json
+C:\Users\maria\RiderProjects\resume\resume\bin\Debug\net8.0\resume.staticwebassets.runtime.json
+C:\Users\maria\RiderProjects\resume\resume\bin\Debug\net8.0\resume.exe
+C:\Users\maria\RiderProjects\resume\resume\bin\Debug\net8.0\resume.deps.json
+C:\Users\maria\RiderProjects\resume\resume\bin\Debug\net8.0\resume.runtimeconfig.json
+C:\Users\maria\RiderProjects\resume\resume\bin\Debug\net8.0\resume.dll
+C:\Users\maria\RiderProjects\resume\resume\bin\Debug\net8.0\resume.pdb
+C:\Users\maria\RiderProjects\resume\resume\obj\Debug\net8.0\resume.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\RiderProjects\resume\resume\obj\Debug\net8.0\resume.AssemblyInfoInputs.cache
+C:\Users\maria\RiderProjects\resume\resume\obj\Debug\net8.0\resume.AssemblyInfo.cs
+C:\Users\maria\RiderProjects\resume\resume\obj\Debug\net8.0\resume.csproj.CoreCompileInputs.cache
+C:\Users\maria\RiderProjects\resume\resume\obj\Debug\net8.0\resume.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\maria\RiderProjects\resume\resume\obj\Debug\net8.0\resume.RazorAssemblyInfo.cache
+C:\Users\maria\RiderProjects\resume\resume\obj\Debug\net8.0\resume.RazorAssemblyInfo.cs
+C:\Users\maria\RiderProjects\resume\resume\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\maria\RiderProjects\resume\resume\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\maria\RiderProjects\resume\resume\obj\Debug\net8.0\staticwebassets\msbuild.resume.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\maria\RiderProjects\resume\resume\obj\Debug\net8.0\staticwebassets\msbuild.build.resume.props
+C:\Users\maria\RiderProjects\resume\resume\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.resume.props
+C:\Users\maria\RiderProjects\resume\resume\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.resume.props
+C:\Users\maria\RiderProjects\resume\resume\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\maria\RiderProjects\resume\resume\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\maria\RiderProjects\resume\resume\obj\Debug\net8.0\scopedcss\bundle\resume.styles.css
+C:\Users\maria\RiderProjects\resume\resume\obj\Debug\net8.0\scopedcss\projectbundle\resume.bundle.scp.css
+C:\Users\maria\RiderProjects\resume\resume\obj\Debug\net8.0\resume.dll
+C:\Users\maria\RiderProjects\resume\resume\obj\Debug\net8.0\refint\resume.dll
+C:\Users\maria\RiderProjects\resume\resume\obj\Debug\net8.0\resume.pdb
+C:\Users\maria\RiderProjects\resume\resume\obj\Debug\net8.0\resume.genruntimeconfig.cache
+C:\Users\maria\RiderProjects\resume\resume\obj\Debug\net8.0\ref\resume.dll
+C:\Users\maria\Desktop\учеба в политехе или как дожить до диплома\4 семестр\тп\resume\resume\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\maria\Desktop\учеба в политехе или как дожить до диплома\4 семестр\тп\resume\resume\bin\Debug\net8.0\appsettings.json
+C:\Users\maria\Desktop\учеба в политехе или как дожить до диплома\4 семестр\тп\resume\resume\bin\Debug\net8.0\resume.staticwebassets.runtime.json
+C:\Users\maria\Desktop\учеба в политехе или как дожить до диплома\4 семестр\тп\resume\resume\bin\Debug\net8.0\resume.exe
+C:\Users\maria\Desktop\учеба в политехе или как дожить до диплома\4 семестр\тп\resume\resume\bin\Debug\net8.0\resume.deps.json
+C:\Users\maria\Desktop\учеба в политехе или как дожить до диплома\4 семестр\тп\resume\resume\bin\Debug\net8.0\resume.runtimeconfig.json
+C:\Users\maria\Desktop\учеба в политехе или как дожить до диплома\4 семестр\тп\resume\resume\bin\Debug\net8.0\resume.dll
+C:\Users\maria\Desktop\учеба в политехе или как дожить до диплома\4 семестр\тп\resume\resume\bin\Debug\net8.0\resume.pdb
+C:\Users\maria\Desktop\учеба в политехе или как дожить до диплома\4 семестр\тп\resume\resume\obj\Debug\net8.0\resume.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\Desktop\учеба в политехе или как дожить до диплома\4 семестр\тп\resume\resume\obj\Debug\net8.0\resume.AssemblyInfoInputs.cache
+C:\Users\maria\Desktop\учеба в политехе или как дожить до диплома\4 семестр\тп\resume\resume\obj\Debug\net8.0\resume.AssemblyInfo.cs
+C:\Users\maria\Desktop\учеба в политехе или как дожить до диплома\4 семестр\тп\resume\resume\obj\Debug\net8.0\resume.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\учеба в политехе или как дожить до диплома\4 семестр\тп\resume\resume\obj\Debug\net8.0\resume.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\maria\Desktop\учеба в политехе или как дожить до диплома\4 семестр\тп\resume\resume\obj\Debug\net8.0\resume.RazorAssemblyInfo.cache
+C:\Users\maria\Desktop\учеба в политехе или как дожить до диплома\4 семестр\тп\resume\resume\obj\Debug\net8.0\resume.RazorAssemblyInfo.cs
+C:\Users\maria\Desktop\учеба в политехе или как дожить до диплома\4 семестр\тп\resume\resume\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\maria\Desktop\учеба в политехе или как дожить до диплома\4 семестр\тп\resume\resume\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\maria\Desktop\учеба в политехе или как дожить до диплома\4 семестр\тп\resume\resume\obj\Debug\net8.0\staticwebassets\msbuild.resume.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\maria\Desktop\учеба в политехе или как дожить до диплома\4 семестр\тп\resume\resume\obj\Debug\net8.0\staticwebassets\msbuild.build.resume.props
+C:\Users\maria\Desktop\учеба в политехе или как дожить до диплома\4 семестр\тп\resume\resume\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.resume.props
+C:\Users\maria\Desktop\учеба в политехе или как дожить до диплома\4 семестр\тп\resume\resume\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.resume.props
+C:\Users\maria\Desktop\учеба в политехе или как дожить до диплома\4 семестр\тп\resume\resume\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\maria\Desktop\учеба в политехе или как дожить до диплома\4 семестр\тп\resume\resume\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\maria\Desktop\учеба в политехе или как дожить до диплома\4 семестр\тп\resume\resume\obj\Debug\net8.0\scopedcss\bundle\resume.styles.css
+C:\Users\maria\Desktop\учеба в политехе или как дожить до диплома\4 семестр\тп\resume\resume\obj\Debug\net8.0\scopedcss\projectbundle\resume.bundle.scp.css
+C:\Users\maria\Desktop\учеба в политехе или как дожить до диплома\4 семестр\тп\resume\resume\obj\Debug\net8.0\resume.dll
+C:\Users\maria\Desktop\учеба в политехе или как дожить до диплома\4 семестр\тп\resume\resume\obj\Debug\net8.0\refint\resume.dll
+C:\Users\maria\Desktop\учеба в политехе или как дожить до диплома\4 семестр\тп\resume\resume\obj\Debug\net8.0\resume.pdb
+C:\Users\maria\Desktop\учеба в политехе или как дожить до диплома\4 семестр\тп\resume\resume\obj\Debug\net8.0\resume.genruntimeconfig.cache
+C:\Users\maria\Desktop\учеба в политехе или как дожить до диплома\4 семестр\тп\resume\resume\obj\Debug\net8.0\ref\resume.dll
